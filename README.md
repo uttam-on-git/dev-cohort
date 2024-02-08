@@ -1,2 +1,2 @@
 # dev-cohort
-# Solutions of the cohort by Harikirat 
+- Solutions of the cohort by Harikirat 
